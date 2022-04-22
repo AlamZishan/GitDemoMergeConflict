@@ -1,2 +1,3 @@
-Input By the master file
+input By the master file
 Entry from the branch1
+input by the branch2
